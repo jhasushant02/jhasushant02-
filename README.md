@@ -40,7 +40,6 @@ I take something messy, a system, a process, a feeling, and look for the shape u
 - **180 Degrees Consulting, BIT Mesra:** Social Media Manager → Associate Consultant → General Secretary → **President** (Apr 2024 to Apr 2025). Led a 100+ member chapter of one of the world's largest student-led consultancies. 7 consulting projects, 4 client acquisition initiatives (including Indigifts and Feeding India-Zomato), mentored 2 other chapters, doubled social reach with 30%+ engagement. National Finalist at Case Lane, ahead of 150+ teams.
 - **Famiclean** (Marketing & Operations Intern): helped get a homecare brand onto Amazon, sales up 10%. Built an Excel automation that saved about 2 hours a week and renegotiated distribution to cut costs 12%.
 - **Diva.AI** (Growth Marketing Intern): 100+ qualified retail leads, brand visibility up 15% across APAC.
-- **Coalescence'23, IIChE BIT Mesra:** led 30 students to run a 3-day tech fest with 5000+ attendees. The marketing plan doubled registrations.
 - **Also:** The Viral Culture, Precap, 1 Vendor Platform, Indigifts, EDC and SARC at BIT Mesra. Each one taught me something a classroom didn't.
 
 ## Mentoring
@@ -55,11 +54,13 @@ Root cause analysis, funnel analysis, supply-demand planning, stakeholder manage
 
 ## Projects
 
-All in [Data-Analysis-Projects](https://github.com/jhasushant02/Data-Analysis-Projects):
+All in [shape-lab](https://github.com/jhasushant02/shape-lab):
 
-- **Sales & Profit Analysis:** SQL + Tableau
-- **Pizza Sales Dashboard**
-- **Loan Defaulter EDA**
+- **Sales & Profit Analysis Dashboard:** Tableau
+- **HR Data Analysis Dashboard:** Tableau
+- **Pizza Sales Analysis:** MySQL and Excel
+- **EDA on Bank Loan Defaulters:** Python
+- **Netflix Product Teardown:** a product teardown
 
 ## Off the clock
 
