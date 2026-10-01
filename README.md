@@ -4,96 +4,84 @@
   <img src="./dark.svg" alt="Sushant Jha, Category Manager at Urban Company, strategy and analytics, systems thinker and mentor">
 </picture>
 
-## Hi, I'm Sushant
+## Hey, I'm Sushant 👋
 
-I take something messy, a system, a process, a feeling, and look for the shape underneath it.
+I started in chemical engineering and ended up in strategy and analytics. Odd route, but engineering taught me to trace a problem to its root, and that turned out to be exactly what category management needed.
 
-By day I'm a Category Manager at Urban Company in Gurgaon. Off the clock I mentor students, watch films, and read more than I should.
+I take something messy, a system, a process, a feeling, and look for the shape underneath it. Still figuring most of it out. Seems to be working so far.
 
-## What I do
+## Right now
 
-- **Screening systems:** building the checks that decide who gets onboarded and how well they're trained
-- **Funnel RCA:** going day by day through a funnel until the real drop-off shows itself
-- **Partner quality:** escalation systems and dashboards that surface problems early
-- **Dashboards vs. ground truth:** making sure the numbers match what's actually happening on the field
+- **Category Manager at Urban Company** (Gurgaon): I own Training and Partner Quality across 9 categories. Still finding leaks. Still building dashboards nobody asked for that everyone ends up using anyway.
+- **Co-Founder & COO at BizAd:** building.
+- **Exploring AI automation:** I keep asking which part of a process repeats, and whether a system can carry that weight.
 
-## Experience
+## What I've been up to at Urban Company
 
-| Role | When | What it looked like |
-| --- | --- | --- |
-| **Category Manager (Central)**, Urban Company, Gurgaon | Jul 2025 to Present | Own Training and Partner Quality for 9 categories, 30+ trainers, and 250+ new provider approvals monthly across India |
-| **Category Manager Intern, City Operations**, Urban Company, Delhi NCR | Jan 2025 to Jun 2025 | Managed 4 categories with a 350+ partner base |
+**Category Manager, Central** (Jul 2025 to now): 30+ trainers, 250+ new provider approvals a month, all across India.
 
-<details>
-<summary><b>Full-time highlights</b></summary>
+| What I built | What moved |
+| --- | --- |
+| L1/L2 screening system with 5 audit dashboards, from scratch | Trainer efficacy 40% → ~85% |
+| Day-level RCA on SPA batch funnels, restructured the key stages | Two major drop-offs cut by 45% each |
+| HH adherence SOPs and a cancellation reversal system | Adherence 73.56% (SPA) and 75.88% (MFM); reversal raise rate 8% → 15% |
+| NPS/Activity Bot escalation system and Partner Quality dashboards (CAT x City) | Resolution TAT down 30%, provider satisfaction up 12%, good partner quantum up 10% |
+| Worked with the product team on provider offline bookings | Down ~27% (3.3% → 2.4%) |
 
-- Built a dual-layer (L1/L2) screening system with 5 audit dashboards from scratch; trainer efficacy 40% to ~85%
-- Ran day-level RCA on SPA batch funnels and restructured key stages, cutting two major drop-offs by 45% each
-- Built HH adherence SOPs and a cancellation reversal system: adherence 73.56% (SPA) and 75.88% (MFM); reversal raise rate 8% to 15%
-- Built an NPS/Activity Bot-driven escalation system and Partner Quality Dashboards (CAT x City): resolution TAT down 30%, provider satisfaction up 12%, good partner quantum up 10%
-- Worked with the product team to reduce provider offline bookings ~27% (3.3% to 2.4%)
+**Category Manager Intern, City Operations** (Jan to Jun 2025): joined in my final semester, 4 categories, 350+ partners, no gentle ramp-up.
 
-</details>
+- Ayurveda request loss ~22% → ~10%; Luxe request loss 17.65% → 12.16%
+- Rewrote the training eligibility criteria after good partners kept getting blocked by rules that only made sense on paper. Unlocked Luxe for 150 partners and onboarded 139 new Pros (64 Luxe, 75 Ayurveda)
+- Built a churn-based onboarding model, so targets were built around who we'd actually lose
+- Designed and scaled **UC MASTER**, a pan-India referral program so providers are paid fairly, not just the loudest or best-connected
 
-<details>
-<summary><b>Internship highlights</b></summary>
+## Before that
 
-- Ayurveda request loss ~22% to ~10%; Luxe request loss 17.65% to 12.16%
-- Unlocked Luxe eligibility for 150 partners; onboarded 139 new Pros (64 Luxe, 75 Ayurveda)
-- Built a churn-based onboarding model for proactive supply planning
-- Designed and scaled UC MASTER, a pan-India referral program ensuring equitable provider compensation across beauty categories
+- **180 Degrees Consulting, BIT Mesra:** Social Media Manager → Associate Consultant → General Secretary → **President** (Apr 2024 to Apr 2025). Led a 100+ member chapter of one of the world's largest student-led consultancies. 7 consulting projects, 4 client acquisition initiatives (including Indigifts and Feeding India-Zomato), mentored 2 other chapters, doubled social reach with 30%+ engagement. National Finalist at Case Lane, ahead of 150+ teams.
+- **Famiclean** (Marketing & Operations Intern): helped get a homecare brand onto Amazon, sales up 10%. Built an Excel automation that saved about 2 hours a week and renegotiated distribution to cut costs 12%.
+- **Diva.AI** (Growth Marketing Intern): 100+ qualified retail leads, brand visibility up 15% across APAC.
+- **Coalescence'23, IIChE BIT Mesra:** led 30 students to run a 3-day tech fest with 5000+ attendees. The marketing plan doubled registrations.
+- **Also:** The Viral Culture, Precap, 1 Vendor Platform, Indigifts, EDC and SARC at BIT Mesra. Each one taught me something a classroom didn't.
 
-</details>
+## Mentoring
 
-## Leadership and community
+I mentor because someone once did the same for me. IIT-JEE aspirants, LinkedIn Launchpad students, and workshops on LinkedIn Strategy, AI Automation and Notion Productivity for 150+ students.
 
-- **President, 180 Degrees Consulting, BIT Mesra** (Apr 2024 to Apr 2025): directed a 100+ member chapter of one of the world's largest student-led consultancies, delivering consulting for startups, non-profits and social enterprises
-  - 7 consulting projects (sustainability, food distribution) and 4 client acquisition initiatives, including Indigifts and Feeding India-Zomato
-  - Mentored 2 college chapters on branch setup, governance and strategy
-  - Scaled social reach 2x; engagement rate 30%+
-- **National Finalist, Case Lane (180 Degrees Consulting):** outperformed 150+ teams across India
-- **Certified:** Consulting Case Interviews & Guesstimates (Sankalp Chhabra)
-- **Workshops** on LinkedIn Strategy, AI Automation and Notion Productivity for 150+ students
-- **Mentoring** IIT-JEE aspirants and LinkedIn Launchpad students
-- **NSS** (2-year tenure, Government of India): community outreach and social impact
+## Tools I reach for
 
-## Featured projects
+SQL (Snowflake, MySQL) · Tableau · Excel · Google Sheets · PowerPoint · Figma · Python / Jupyter
 
-All three live in [Data-Analysis-Projects](https://github.com/jhasushant02/Data-Analysis-Projects).
+Root cause analysis, funnel analysis, supply-demand planning, stakeholder management. Also lots of no-code and automation.
+
+## Projects
+
+All in [Data-Analysis-Projects](https://github.com/jhasushant02/Data-Analysis-Projects):
 
 - **Sales & Profit Analysis:** SQL + Tableau
-- **Pizza Sales Dashboard:** a sales dashboard
-- **Loan Defaulter EDA:** exploratory data analysis
+- **Pizza Sales Dashboard**
+- **Loan Defaulter EDA**
 
-## Stack and methods
+## Off the clock
 
-**Tools:** SQL (Snowflake, MySQL), Tableau, Excel, Google Sheets, PowerPoint, Figma, Python / Jupyter
-
-**Methods:** Supply-Demand Planning, Root Cause Analysis, Funnel Analysis, Stakeholder Management
-
-I also build with no-code tools and automation.
-
-## Currently exploring
-
-**AI Automation.** What pulls me in is a simple question: which part of this process repeats, and can a system carry that weight? It's the same instinct behind the screening systems and dashboards I already build. I've run workshops on AI Automation (alongside LinkedIn Strategy and Notion Productivity) for 150+ students, but I'm still learning, not claiming expertise.
-
-## Writing, and off the clock
-
-I write at [my blog](https://sushant-jha.super.site/my-blogs).
-
-Away from work, I watch films in their original language (dubbing kills the performance). I read business books to sharpen, fiction to soften, philosophy to stretch, and biographies to anchor.
+I watch films in their original language, because dubbing kills the performance. I read business books to sharpen, fiction to soften, philosophy to stretch, and biographies to anchor. Sometimes I write about it all on [my blog](https://sushant-jha.super.site/my-blogs).
 
 ## Education
 
-**B.Tech, Chemical Engineering**, Birla Institute of Technology, Mesra (BIT Mesra), Ranchi, 2025
+B.Tech, Chemical Engineering, BIT Mesra, Ranchi (2021 to 2025)
 
-## Connect
+## Contributions
 
-- GitHub: [jhasushant02](https://github.com/jhasushant02)
-- LinkedIn: [isushantjha](https://linkedin.com/in/isushantjha)
-- Portfolio: [sushant-jha.super.site](https://sushant-jha.super.site/)
-- Blog: [sushant-jha.super.site/my-blogs](https://sushant-jha.super.site/my-blogs)
-- Email: [sushant.kr.jha02@gmail.com](mailto:sushant.kr.jha02@gmail.com)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhasushant02/github-snake/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhasushant02/github-snake/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/jhasushant02/github-snake/output/github-snake.svg" alt="GitHub contribution graph being eaten by a snake" width="100%" />
+  </picture>
+</p>
+
+## Say hi
+
+[GitHub](https://github.com/jhasushant02) · [LinkedIn](https://linkedin.com/in/isushantjha) · [Portfolio](https://sushant-jha.super.site/) · [Blog](https://sushant-jha.super.site/my-blogs) · [Email](mailto:sushant.kr.jha02@gmail.com)
 
 ---
 
