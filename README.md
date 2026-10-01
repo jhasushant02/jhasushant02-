@@ -97,4 +97,4 @@ Away from work, I watch films in their original language (dubbing kills the perf
 
 ---
 
-*This isn't a portfolio. It's just what I'm building, on the clock and off it.*
+*Build things. Automate the boring parts. Scale what matters.*
